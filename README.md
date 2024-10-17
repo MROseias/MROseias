@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🔭 Data Analysis and Embedded Systems Developer
 - 🌱 Strengthen my programming skills: Python, C/C++, C# and Linux
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MROseias&theme=dark&show_icons=true)
