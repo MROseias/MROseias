@@ -8,6 +8,8 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="meu-icone" height="30" width="40" src="./sql_icon.png">
   <img align="right" alt="robot" height="120" width="120" src="https://media1.tenor.com/m/fRw-3JZwfTwAAAAC/cryptoflash-crypto.gif">
+  
 </div>
 
