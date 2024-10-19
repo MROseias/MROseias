@@ -1,7 +1,7 @@
 ## Hi! I am MROseias, Mechatronic Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MROseias&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MROseias&layout=compact&bg_color=151515&text_color=ffffff&title_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MROseias&layout=compact&bg_color=151515&text_color=ffffff&title_color=ffffff&langs=python,c,c++,javascript,sql,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="meu-icone2" height="30" width="40" src="./motherboard.png">
