@@ -13,7 +13,7 @@
   <img align="center" alt="meu-icone2" height="30" width="40" src="./esp8266.jpg">
   <img align="center" alt="meu-icone3" height="30" width="40" src="./esp32.jpeg">
   <img align="center" alt="meu-icone44" height="30" width="40" src="./arduino.png">
-  <img align="right" alt="robot" height="120" width="120" src="https://media1.tenor.com/m/fRw-3JZwfTwAAAAC/cryptoflash-crypto.gif">
+  <img align="right" alt="robot" height="100" width="100" src="https://media1.tenor.com/m/fRw-3JZwfTwAAAAC/cryptoflash-crypto.gif">
   
 </div>
 
