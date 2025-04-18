@@ -1,7 +1,12 @@
 ## Hi! I am Oséias Caires, Mechatronic Engineer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MROseias&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MROseias&layout=compact&bg_color=151515&text_color=ffffff&title_color=ffffff&langs=python,c,c++,javascript,sql,html,css)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MROseias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MROseias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="151" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MROseias&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="meu-icone2" height="30" width="40" src="./motherboard.png">
